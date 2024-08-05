@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+ITACHI-+MD-+pixel__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+PAUL+ADEDOKUN;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-PAUL_ADEDOKUN-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
