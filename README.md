@@ -26,7 +26,7 @@
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://david-session-1-4fpd.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Gojou-MD)**
-8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VafgKHuDjiOa7y21kq37) for more**
+8. **You can visit whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VafgKHuDjiOa7y21kq37) for more**
 9. **All Tutorials Are `COMING SOON`**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
