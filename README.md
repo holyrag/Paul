@@ -22,7 +22,7 @@
 
 ## ITACHI-MD-pixel Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/ITACHI-MD-pixel/paul) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/ITACHI-MD-pixel/paul/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://david-session-1-4fpd.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://david-session-1-4fpd.onrender.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Gojou-MD)**
