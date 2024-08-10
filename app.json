@@ -3,7 +3,7 @@
   "description":"Deploy now your ITACHI-MD-pixel ,Brought to you by the Paul Adedokun.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/YKVlucn.jpeg",
-  "repository":"https://github.com/ITACHI-MD-pixel/Paul-Adedokun",
+  "repository":"https://github.com/ITACHI-MD-pixel/Paul",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
